@@ -45,6 +45,9 @@ phases (German: Phase)
     Note that phases are most common on processes, but may also exist on
     smaller entities such as methods or even individual proposal.
 
+idea collection (German: Ideensammlung)
+    An idea collection is typically structured as a process for collecting ideas.
+
 
 About this document
 ===================
