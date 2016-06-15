@@ -46,8 +46,8 @@ phases (German: Phase)
     smaller entities such as methods or even individual proposal.
 
 idea collection (German: Ideensammlung)
-    An idea collection is typically structured as a process for collecting ideas.
-
+    An idea collection is typically structured as a process for collecting
+    ideas, e.g. Kiezkasse, Bürgerhaushalt, ISEK.
 
 About this document
 ===================
